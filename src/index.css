@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@300&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/*for modal*/
+/* .modal{
+  
+} */
+
+
+/* .image{
+  height:50vh;
+  width: 30vw;
+}
+
+.container{
+  background-color: rgb(187, 190, 219);
+  position: relative;
+  left: 30vw; */
+  /* display: flex; */
+  /* overflow: hidden;
+  height: 50vh;
+  width: 30vw; */
+  /* opacity: 1; */
+/* }
+
+.slide{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top:0;
+  left: 0;
+}
+
+.activeslide{
+  left: 0;
+  opacity: 1;
+  transform: translateX(0); 
+  transition: all ease 1s; */
+  /* animation: curslider 1s ease-in-out 0.01s; */
+/* }
+.lastslide{
+  opacity: 0;
+  transform: translateX(-100%);
+  transition: all ease 1s;
+  background-color: rgb(0, 158, 71);
+  /* animation: prevslider 1s ease-in-out 0.01s; */
+/* } */
+
+/* .nextslide{
+  opacity: 0;
+  transform: translateX(100%);
+  transition: all ease 1s; */
+  /* animation: nextslider 1s ease-in-out 0.01s; */
+/* } */ 
+
